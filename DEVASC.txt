@@ -1,2 +1,6 @@
-Yo estoy DevNet DEVEASC 
+<<<<<<< HEAD
+=======
+Yo estoy NetAcad DEVEASC 
+>>>>>>> test
 estoy empezando a entender GIT
+esta es una nueva rama
